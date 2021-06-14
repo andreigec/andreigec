@@ -9,6 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-bollardart.com.au-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bollardart.com.au)](https://bollardart.com.au)
 [![Website Badge](https://img.shields.io/badge/-pocketrocket.fit-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://pocketrocket.fit)](https://pocketrocket.fit)
 [![Website Badge](https://img.shields.io/badge/-gts.tips-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gts.tips)](https://gts.tips)
+[![Website Badge](https://img.shields.io/badge/-techmer.ch-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gts.tips)](https://techmer.ch)
 
 [![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andreigec&show_icons=true&hide=["issues"])](https://github.com/andreigec)
 [![Andrei's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreigec&show_icons=true&layout=compact)](https://github.com/andreigec)
